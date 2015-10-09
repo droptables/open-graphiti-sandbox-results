@@ -1,0 +1,215 @@
+{
+ "timeline": [], 
+ "nodes": [
+  {
+   "type": "reg_mod", 
+   "id": "0c18e3764b70453487314ffa0062d46c", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddetectedurl"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "af217a5bc28a4bd1a4a39d1cfa7b8832", 
+   "label": "currentversion\\internet settings\\zonemap\\autodetect"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "9842d642989a4dfab3c55306e8ef7d4a", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddecisionreason"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "8c6983d8ac3e4cc08669949d9f2a3187", 
+   "label": "5.0\\cache\\cookies\\cacheprefix"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "7df0dac3d1064108a6759b066b8574a0", 
+   "label": "windows\\currentversion\\internet settings\\proxyenable"
+  }, 
+  {
+   "type": "netconn", 
+   "id": "a817e0687f794b0c96c42dfad103c4dd", 
+   "label": "icons.r.proxyloads.ru"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "9704da6703be456f8db3ec4db10f6f9b", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddecisiontime"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "63281708ef264f0b95d6b16292dcbbe1", 
+   "label": "c:\\users\\t_maklm\\appdata\\local\\microsoft\\windows\\temporary internet files\\content.ie5\\kzd3nwp1\\warthunder[1].ico"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "4f5c8800b53e4591b7215e90e31cfb1c", 
+   "label": "5.0\\cache\\content\\cacheprefix"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "32fff0f5d710440996a244856b4c01e5", 
+   "label": "s-1-5-21-1935655697-515967899-682003330-419194\\software\\biticoninstaller\\icon-install-warthunder"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "8f8f81f92e004851826a52db4291ebbf", 
+   "label": "c:\\users\\t_maklm\\appdata\\local\\microsoft\\windows\\temporary internet files\\content.ie5\\oe1a3poy\\face[1].ico"
+  }, 
+  {
+   "type": "time", 
+   "id": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "label": "2015-08-14 14:03:03"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "02d2ecffa3fb40e1a215ec3529548112", 
+   "label": "currentversion\\internet settings\\connections\\savedlegacysettings"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "d1d90a9bd6ac4fd5874b210c18d830df", 
+   "label": "5.0\\cache\\history\\cacheprefix"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "d3528133d99c4c20ac8f551e3117c315", 
+   "label": "user\\s-1-5-21-1935655697-515967899-682003330-419194\\software\\biticoninstaller"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "62ced860c44d4147ba201da173a57fd1", 
+   "label": "s-1-5-21-1935655697-515967899-682003330-419194\\software\\biticoninstaller\\icon-install-face"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "65f57a2c823641a781023028743d1833", 
+   "label": "currentversion\\internet settings\\zonemap\\uncasintranet"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "a4e4359f78e94bc0a864157631ed2819", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddecision"
+  }
+ ], 
+ "meta": {}, 
+ "edges": [
+  {
+   "src": "0c18e3764b70453487314ffa0062d46c", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "f8ecc68b0fd54383b10ec5e33783cf79", 
+   "label": "action"
+  }, 
+  {
+   "src": "af217a5bc28a4bd1a4a39d1cfa7b8832", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "52ec07ad48ce41aebf17d202178de301", 
+   "label": "action"
+  }, 
+  {
+   "src": "9842d642989a4dfab3c55306e8ef7d4a", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "1dfe0e7e40f84ef9b52a34b1a1d6ebc3", 
+   "label": "action"
+  }, 
+  {
+   "src": "8c6983d8ac3e4cc08669949d9f2a3187", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "4be8a70b16374cf7860106b5f41175df", 
+   "label": "action"
+  }, 
+  {
+   "src": "7df0dac3d1064108a6759b066b8574a0", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "00a6434f17d74551891454fa575e9565", 
+   "label": "action"
+  }, 
+  {
+   "src": "a817e0687f794b0c96c42dfad103c4dd", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "id": "2c0385eee70e4dd78862008b70949e6c"
+  }, 
+  {
+   "src": "9704da6703be456f8db3ec4db10f6f9b", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "eb2f58deee594761bbbae328ef027062", 
+   "label": "action"
+  }, 
+  {
+   "src": "63281708ef264f0b95d6b16292dcbbe1", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "created", 
+   "id": "bb45bcc83a3f45198fe0e3167f3e05ea", 
+   "label": "action"
+  }, 
+  {
+   "src": "4f5c8800b53e4591b7215e90e31cfb1c", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "848570f3f2914d878da72d5ba8a07e27", 
+   "label": "action"
+  }, 
+  {
+   "src": "32fff0f5d710440996a244856b4c01e5", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "first-wrote", 
+   "id": "f9878e4c5a104d66be1556b817768253", 
+   "label": "action"
+  }, 
+  {
+   "src": "8f8f81f92e004851826a52db4291ebbf", 
+   "dst": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "type": "created", 
+   "id": "60149503503d42d8a4baca2fc8d3e189", 
+   "label": "action"
+  }, 
+  {
+   "src": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "dst": "02d2ecffa3fb40e1a215ec3529548112", 
+   "type": "first-wrote", 
+   "id": "8b122ea2eec34f1db99738c41684cd75", 
+   "label": "action"
+  }, 
+  {
+   "src": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "dst": "d1d90a9bd6ac4fd5874b210c18d830df", 
+   "type": "first-wrote", 
+   "id": "732e9a980e26485d8b303c871e0ef875", 
+   "label": "action"
+  }, 
+  {
+   "src": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "dst": "d3528133d99c4c20ac8f551e3117c315", 
+   "type": "created", 
+   "id": "6092a5c874074a5f8fba9c89de718c13", 
+   "label": "action"
+  }, 
+  {
+   "src": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "dst": "62ced860c44d4147ba201da173a57fd1", 
+   "type": "first-wrote", 
+   "id": "d2b0c375ab0948b691808842234e3b49", 
+   "label": "action"
+  }, 
+  {
+   "src": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "dst": "65f57a2c823641a781023028743d1833", 
+   "type": "first-wrote", 
+   "id": "3cbe3ce0c2a74eec8573d8f94ea58eaf", 
+   "label": "action"
+  }, 
+  {
+   "src": "b792a12e1b5644ee9b2c1ad621d53fa3", 
+   "dst": "a4e4359f78e94bc0a864157631ed2819", 
+   "type": "first-wrote", 
+   "id": "259ac8e255e241f5b6e68222c67ab9b0", 
+   "label": "action"
+  }
+ ]
+}

@@ -1,0 +1,312 @@
+{
+ "timeline": [], 
+ "nodes": [
+  {
+   "type": "file_mod", 
+   "id": "f2b664d75e9d4932afdf5a20b05e2b2e", 
+   "label": "c:\\users\\t_whitn\\appdata\\local\\temp\\1394cdd\\bit4d19.tmp"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "85a92f7225ea4159ae407cf558ea1bbb", 
+   "label": "c:\\programdata\\microsoft\\network\\downloader\\qmgr0.dat"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "6bedef8678c34680a4ed2353aeda5675", 
+   "label": "services\\bits\\performance\\perfmmfilename"
+  }, 
+  {
+   "type": "time", 
+   "id": "876756c4fa0745059c076e90e8ea1ce1", 
+   "label": "2015-08-22 00:58:13"
+  }, 
+  {
+   "type": "time", 
+   "id": "73ca954fcbfb465caf9986f663fc396b", 
+   "label": "2015-08-22 00:58:14"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "bf99ff0d9fde4fa081df07ddb0726a86", 
+   "label": "c:\\users\\t_whitn\\appdata\\local\\temp\\70debc\\b.dll"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "a10e2238e6b440baa85bc4fdc3c1694f", 
+   "label": "windows\\currentversion\\bits\\stateindex"
+  }, 
+  {
+   "type": "time", 
+   "id": "b924fde5d15c43e380dfa66fa63364a7", 
+   "label": "2015-08-22 00:57:59"
+  }, 
+  {
+   "type": "time", 
+   "id": "229db77d3af6468883455ba03d155805", 
+   "label": "2015-08-22 00:57:58"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "d341a82fbbd04d8990755d232885a48d", 
+   "label": "control\\backuprestore\\filesnottobackup\\bits_bak"
+  }, 
+  {
+   "type": "netconn", 
+   "id": "b5f27ed3424843db8d5068bf145c1d63", 
+   "label": "starticut.com"
+  }, 
+  {
+   "type": "time", 
+   "id": "14a1a0dcaa844613ba4c07e4e5061a61", 
+   "label": "2015-08-22 00:58:00"
+  }, 
+  {
+   "type": "time", 
+   "id": "7c375431dde9465d8fbf46424cf2c777", 
+   "label": "2015-08-22 00:58:10"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "34c043c4fd7d4664838804dd80ca7163", 
+   "label": "c:\\programdata\\microsoft\\network\\downloader\\qmgr1.dat"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "3e2456d621154a6cbf25074b700a2fcb", 
+   "label": "c:\\users\\t_whitn\\appdata\\local\\temp\\70e12c\\bite155.tmp"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "3346f296f4d442bbbb89a17fb52a917f", 
+   "label": "c:\\users\\t_whitn\\appdata\\local\\temp\\70debc\\bitdec5.tmp"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "0991ef8d4f1a4966af26352e2412c295", 
+   "label": "control\\backuprestore\\filesnottobackup\\bits_log"
+  }, 
+  {
+   "type": "netconn", 
+   "id": "87cec99927d44a41936e48763eca0918", 
+   "label": ""
+  }, 
+  {
+   "type": "netconn", 
+   "id": "0db815a21b754ea496b46b1f93b18c3a", 
+   "label": "report-onesystemcareremove.com"
+  }, 
+  {
+   "type": "time", 
+   "id": "eabf1852cd0f4470b14d2a44bac86dc4", 
+   "label": "2015-08-22 00:58:09"
+  }
+ ], 
+ "meta": {}, 
+ "edges": [
+  {
+   "src": "f2b664d75e9d4932afdf5a20b05e2b2e", 
+   "dst": "b924fde5d15c43e380dfa66fa63364a7", 
+   "type": "created", 
+   "id": "7980fa6ce3004a9c9425a6498985263c", 
+   "label": "action"
+  }, 
+  {
+   "src": "f2b664d75e9d4932afdf5a20b05e2b2e", 
+   "dst": "b924fde5d15c43e380dfa66fa63364a7", 
+   "type": "deleted", 
+   "id": "2fe5ae8db1fc4ef8b4e0a2f32dfc6634", 
+   "label": "action"
+  }, 
+  {
+   "src": "f2b664d75e9d4932afdf5a20b05e2b2e", 
+   "dst": "b924fde5d15c43e380dfa66fa63364a7", 
+   "type": "created", 
+   "id": "7980fa6ce3004a9c9425a6498985263c", 
+   "label": "action"
+  }, 
+  {
+   "src": "f2b664d75e9d4932afdf5a20b05e2b2e", 
+   "dst": "b924fde5d15c43e380dfa66fa63364a7", 
+   "type": "deleted", 
+   "id": "2fe5ae8db1fc4ef8b4e0a2f32dfc6634", 
+   "label": "action"
+  }, 
+  {
+   "src": "85a92f7225ea4159ae407cf558ea1bbb", 
+   "dst": "b924fde5d15c43e380dfa66fa63364a7", 
+   "type": "first-wrote", 
+   "id": "bf8d778c22124f14ba6afda677d2ce76", 
+   "label": "action"
+  }, 
+  {
+   "src": "6bedef8678c34680a4ed2353aeda5675", 
+   "dst": "73ca954fcbfb465caf9986f663fc396b", 
+   "type": "deleted-value", 
+   "id": "67e3b53d187b4062869df204b42caa70", 
+   "label": "action"
+  }, 
+  {
+   "src": "6bedef8678c34680a4ed2353aeda5675", 
+   "dst": "229db77d3af6468883455ba03d155805", 
+   "type": "first-wrote", 
+   "id": "6c5c5b7d90e048fa9527c1ba5a8f4518", 
+   "label": "action"
+  }, 
+  {
+   "src": "876756c4fa0745059c076e90e8ea1ce1", 
+   "dst": "73ca954fcbfb465caf9986f663fc396b", 
+   "type": "timestamp", 
+   "id": "8f91e7318d024165a4b75c902fc191e7", 
+   "label": "time"
+  }, 
+  {
+   "src": "876756c4fa0745059c076e90e8ea1ce1", 
+   "dst": "3346f296f4d442bbbb89a17fb52a917f", 
+   "type": "last-wrote", 
+   "id": "4abc2ba9644e47c4a5450257060cb6ad", 
+   "label": "action"
+  }, 
+  {
+   "src": "876756c4fa0745059c076e90e8ea1ce1", 
+   "dst": "7c375431dde9465d8fbf46424cf2c777", 
+   "type": "timestamp", 
+   "id": "2178856e73e24d18bbfbf2c8f3630118", 
+   "label": "time"
+  }, 
+  {
+   "src": "73ca954fcbfb465caf9986f663fc396b", 
+   "dst": "bf99ff0d9fde4fa081df07ddb0726a86", 
+   "type": "created", 
+   "id": "5a2358fdb3fd4cb3a295957eb7636d7a", 
+   "label": "action"
+  }, 
+  {
+   "src": "73ca954fcbfb465caf9986f663fc396b", 
+   "dst": "bf99ff0d9fde4fa081df07ddb0726a86", 
+   "type": "first-wrote", 
+   "id": "8d50c62f0e634c3792e61f4daf568ade", 
+   "label": "action"
+  }, 
+  {
+   "src": "73ca954fcbfb465caf9986f663fc396b", 
+   "dst": "bf99ff0d9fde4fa081df07ddb0726a86", 
+   "type": "created", 
+   "id": "5a2358fdb3fd4cb3a295957eb7636d7a", 
+   "label": "action"
+  }, 
+  {
+   "src": "73ca954fcbfb465caf9986f663fc396b", 
+   "dst": "bf99ff0d9fde4fa081df07ddb0726a86", 
+   "type": "first-wrote", 
+   "id": "8d50c62f0e634c3792e61f4daf568ade", 
+   "label": "action"
+  }, 
+  {
+   "src": "a10e2238e6b440baa85bc4fdc3c1694f", 
+   "dst": "b924fde5d15c43e380dfa66fa63364a7", 
+   "type": "first-wrote", 
+   "id": "7065ce43a1a5400290de273cf5dfef98", 
+   "label": "action"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "34c043c4fd7d4664838804dd80ca7163", 
+   "type": "first-wrote", 
+   "id": "bc5c99810cba4372bf983e000fe120e9", 
+   "label": "action"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "229db77d3af6468883455ba03d155805", 
+   "type": "timestamp", 
+   "id": "08b219b53c3644cdbf07f22a0921c50d", 
+   "label": "time"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "14a1a0dcaa844613ba4c07e4e5061a61", 
+   "type": "timestamp", 
+   "id": "512889a1f21b48c494ff0fd97bd882f8", 
+   "label": "time"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "3e2456d621154a6cbf25074b700a2fcb", 
+   "type": "deleted", 
+   "id": "ac2e726124234d9ea8b8bc83141f9098", 
+   "label": "action"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "3346f296f4d442bbbb89a17fb52a917f", 
+   "type": "deleted", 
+   "id": "780024f295d44ed09b51cdce30bbfce1", 
+   "label": "action"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "87cec99927d44a41936e48763eca0918", 
+   "id": "e247d872b6d9418ca9fb111e73b6cde7"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "0db815a21b754ea496b46b1f93b18c3a", 
+   "id": "3f3cbce48bb1424e9ce64ce54e819a78"
+  }, 
+  {
+   "src": "b924fde5d15c43e380dfa66fa63364a7", 
+   "dst": "b5f27ed3424843db8d5068bf145c1d63", 
+   "id": "e27c2b37a38a40d7a3e96ca0b4d09420"
+  }, 
+  {
+   "src": "229db77d3af6468883455ba03d155805", 
+   "dst": "d341a82fbbd04d8990755d232885a48d", 
+   "type": "first-wrote", 
+   "id": "6bf1e01d0b0e4a5d91c3659a79559181", 
+   "label": "action"
+  }, 
+  {
+   "src": "229db77d3af6468883455ba03d155805", 
+   "dst": "0991ef8d4f1a4966af26352e2412c295", 
+   "type": "first-wrote", 
+   "id": "2a56755a38614b198c84fbb89275778e", 
+   "label": "action"
+  }, 
+  {
+   "src": "14a1a0dcaa844613ba4c07e4e5061a61", 
+   "dst": "eabf1852cd0f4470b14d2a44bac86dc4", 
+   "type": "timestamp", 
+   "id": "f263ce0f29bd47e6a0954bb3c929457b", 
+   "label": "time"
+  }, 
+  {
+   "src": "7c375431dde9465d8fbf46424cf2c777", 
+   "dst": "3346f296f4d442bbbb89a17fb52a917f", 
+   "type": "first-wrote", 
+   "id": "46083f41e50c4ea79ce911a1d538bfcc", 
+   "label": "action"
+  }, 
+  {
+   "src": "7c375431dde9465d8fbf46424cf2c777", 
+   "dst": "eabf1852cd0f4470b14d2a44bac86dc4", 
+   "type": "timestamp", 
+   "id": "dc10f83f54874e78a1264f25883f8a83", 
+   "label": "time"
+  }, 
+  {
+   "src": "3e2456d621154a6cbf25074b700a2fcb", 
+   "dst": "eabf1852cd0f4470b14d2a44bac86dc4", 
+   "type": "created", 
+   "id": "914c1904b6ac4ab4b3ad02cb2081cb7d", 
+   "label": "action"
+  }, 
+  {
+   "src": "3346f296f4d442bbbb89a17fb52a917f", 
+   "dst": "eabf1852cd0f4470b14d2a44bac86dc4", 
+   "type": "created", 
+   "id": "ed6a8b61d3f64f3f903ea7ac1cc3cd07", 
+   "label": "action"
+  }
+ ]
+}

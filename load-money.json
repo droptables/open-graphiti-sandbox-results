@@ -1,0 +1,353 @@
+{
+ "timeline": [], 
+ "nodes": [
+  {
+   "type": "file_mod", 
+   "id": "96ed33d3956a4becbb1c3dc7a594e993", 
+   "label": "c:\\users\\t_maklm\\appdata\\local\\temp\\kometa_vd.exe"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "78be0676b81f4321899fbcf22391ee62", 
+   "label": "5.0\\cache\\content\\cacheprefix"
+  }, 
+  {
+   "type": "time", 
+   "id": "ae8cab1ed33b4895a0134751bdf8c171", 
+   "label": "2015-08-14 14:04:05"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "48ef85a2b1a64eb286f7a6b059a23c5e", 
+   "label": "internet settings\\wpad\\{8fc68cc4-1a78-40eb-b338-2cd780ebbc5c}\\wpaddecision"
+  }, 
+  {
+   "type": "time", 
+   "id": "c4941364cdc643bd84d4be58f4c850d9", 
+   "label": "2015-08-14 14:04:04"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "df708a2f43b74feea133f043a86ee3a9", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddetectedurl"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "3a840ad61ba44294af5ff695746aee87", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddecisionreason"
+  }, 
+  {
+   "type": "netconn", 
+   "id": "3059a1975c244464ae1152bd87d9ebb8", 
+   "label": "nmdfbs.ru"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "2884ee00fe7a4448885895155ab6bcd5", 
+   "label": "internet settings\\wpad\\{8fc68cc4-1a78-40eb-b338-2cd780ebbc5c}\\wpaddecisionreason"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "73e24b62446945b58dfa0c6c342eab6c", 
+   "label": "currentversion\\internet settings\\connections\\savedlegacysettings"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "c2c0b597183f44fdb8a92b9534eb2b25", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddecisiontime"
+  }, 
+  {
+   "type": "file_mod", 
+   "id": "d0d49dcdd7964abf874924f543dc2f6a", 
+   "label": "c:\\users\\t_maklm\\appdata\\local\\microsoft\\windows\\temporary internet files\\content.ie5\\4ayaozka\\loadmoneyconfig[1].json"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "b0f17d1002164f1d9498b7a820658a11", 
+   "label": "internet settings\\wpad\\{8fc68cc4-1a78-40eb-b338-2cd780ebbc5c}\\wpadnetworkname"
+  }, 
+  {
+   "type": "netconn", 
+   "id": "d6a7e5594bd04a20980536281f5bb012", 
+   "label": "rat-smell-touch.ru"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "328967f7c6d44b39860385e63deb677c", 
+   "label": "currentversion\\internet settings\\zonemap\\uncasintranet"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "215e118b79db4a0d83193a367618a8b2", 
+   "label": "windows\\currentversion\\internet settings\\proxyenable"
+  }, 
+  {
+   "type": "time", 
+   "id": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "label": "2015-08-14 14:04:03"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "33abdc407af944f2b6969629b372c3e4", 
+   "label": "internet settings\\wpad\\bc-ae-c5-a7-d6-a3\\wpaddecision"
+  }, 
+  {
+   "type": "time", 
+   "id": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "label": "2015-08-14 14:04:06"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "9733df8da0704166978d6b82900eb3ff", 
+   "label": "5.0\\cache\\history\\cacheprefix"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "f6a9dfa652f441abb685a6209396ba3e", 
+   "label": "currentversion\\internet settings\\zonemap\\autodetect"
+  }, 
+  {
+   "type": "time", 
+   "id": "5d005f8dd5034e43ac081c46a38bca29", 
+   "label": "2015-08-14 14:07:17"
+  }, 
+  {
+   "type": "time", 
+   "id": "6d2d767d0026415dabd53487142e6e14", 
+   "label": "2015-08-14 14:07:20"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "e4d5547f087641caae2655a39b933d2a", 
+   "label": "internet settings\\wpad\\{8fc68cc4-1a78-40eb-b338-2cd780ebbc5c}\\wpaddecisiontime"
+  }, 
+  {
+   "type": "reg_mod", 
+   "id": "65b3039a38064c10909efd18994dbd68", 
+   "label": "5.0\\cache\\cookies\\cacheprefix"
+  }
+ ], 
+ "meta": {}, 
+ "edges": [
+  {
+   "src": "96ed33d3956a4becbb1c3dc7a594e993", 
+   "dst": "5d005f8dd5034e43ac081c46a38bca29", 
+   "type": "last-wrote", 
+   "id": "8a016f4aba364649953468e06ccf80f2", 
+   "label": "action"
+  }, 
+  {
+   "src": "96ed33d3956a4becbb1c3dc7a594e993", 
+   "dst": "c4941364cdc643bd84d4be58f4c850d9", 
+   "type": "first-wrote", 
+   "id": "bf4eb8f883a04d33b49a09b810141f9e", 
+   "label": "action"
+  }, 
+  {
+   "src": "96ed33d3956a4becbb1c3dc7a594e993", 
+   "dst": "c4941364cdc643bd84d4be58f4c850d9", 
+   "type": "created", 
+   "id": "04e60369485c4fd3914f9a68d47f7de1", 
+   "label": "action"
+  }, 
+  {
+   "src": "96ed33d3956a4becbb1c3dc7a594e993", 
+   "dst": "c4941364cdc643bd84d4be58f4c850d9", 
+   "type": "first-wrote", 
+   "id": "bf4eb8f883a04d33b49a09b810141f9e", 
+   "label": "action"
+  }, 
+  {
+   "src": "96ed33d3956a4becbb1c3dc7a594e993", 
+   "dst": "c4941364cdc643bd84d4be58f4c850d9", 
+   "type": "created", 
+   "id": "04e60369485c4fd3914f9a68d47f7de1", 
+   "label": "action"
+  }, 
+  {
+   "src": "78be0676b81f4321899fbcf22391ee62", 
+   "dst": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "type": "first-wrote", 
+   "id": "fe3ea402df374b94838705666b399d7b", 
+   "label": "action"
+  }, 
+  {
+   "src": "ae8cab1ed33b4895a0134751bdf8c171", 
+   "dst": "d6a7e5594bd04a20980536281f5bb012", 
+   "id": "bc738d6d70fb4a5aaf3c49e77693c8c6"
+  }, 
+  {
+   "src": "ae8cab1ed33b4895a0134751bdf8c171", 
+   "dst": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "type": "timestamp", 
+   "id": "061f684ff19d496084be3337c07c979c", 
+   "label": "time"
+  }, 
+  {
+   "src": "ae8cab1ed33b4895a0134751bdf8c171", 
+   "dst": "3059a1975c244464ae1152bd87d9ebb8", 
+   "id": "e8b13bfc99094434a6679ea14c722c28"
+  }, 
+  {
+   "src": "ae8cab1ed33b4895a0134751bdf8c171", 
+   "dst": "c4941364cdc643bd84d4be58f4c850d9", 
+   "type": "timestamp", 
+   "id": "85be5ab02e114fd29c16a5c4b37343aa", 
+   "label": "time"
+  }, 
+  {
+   "src": "48ef85a2b1a64eb286f7a6b059a23c5e", 
+   "dst": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "type": "first-wrote", 
+   "id": "3cc535037a5848be88e8d25c178a93cc", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "c2c0b597183f44fdb8a92b9534eb2b25", 
+   "type": "first-wrote", 
+   "id": "9ceff6ec5cfd4dd098aab647aae56b86", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "d0d49dcdd7964abf874924f543dc2f6a", 
+   "type": "first-wrote", 
+   "id": "04d92cbfd25542a0936a55afa4fbc71b", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "d0d49dcdd7964abf874924f543dc2f6a", 
+   "type": "created", 
+   "id": "3aa8f2a48883409fa4d3000286cd46f0", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "d0d49dcdd7964abf874924f543dc2f6a", 
+   "type": "first-wrote", 
+   "id": "04d92cbfd25542a0936a55afa4fbc71b", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "d0d49dcdd7964abf874924f543dc2f6a", 
+   "type": "created", 
+   "id": "3aa8f2a48883409fa4d3000286cd46f0", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "type": "timestamp", 
+   "id": "5af7c2e9e5ba4c57a5f2452b1b9b227b", 
+   "label": "time"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "33abdc407af944f2b6969629b372c3e4", 
+   "type": "first-wrote", 
+   "id": "9489199d7994433d9eaa43535fec4432", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "df708a2f43b74feea133f043a86ee3a9", 
+   "type": "first-wrote", 
+   "id": "88f6c9ded67b440a9796444642bd07c5", 
+   "label": "action"
+  }, 
+  {
+   "src": "c4941364cdc643bd84d4be58f4c850d9", 
+   "dst": "3a840ad61ba44294af5ff695746aee87", 
+   "type": "first-wrote", 
+   "id": "f6f16d4619fd44b399a7dadceac3d684", 
+   "label": "action"
+  }, 
+  {
+   "src": "df708a2f43b74feea133f043a86ee3a9", 
+   "dst": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "type": "deleted-value", 
+   "id": "38fe32f489d945b1be6a2ecbd7b5b7a0", 
+   "label": "action"
+  }, 
+  {
+   "src": "2884ee00fe7a4448885895155ab6bcd5", 
+   "dst": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "type": "first-wrote", 
+   "id": "708ba925148e408798fc1a8ee94677f1", 
+   "label": "action"
+  }, 
+  {
+   "src": "73e24b62446945b58dfa0c6c342eab6c", 
+   "dst": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "type": "first-wrote", 
+   "id": "c23fcdeb03524762aaa2d8377cf9de40", 
+   "label": "action"
+  }, 
+  {
+   "src": "b0f17d1002164f1d9498b7a820658a11", 
+   "dst": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "type": "first-wrote", 
+   "id": "77b5c3c1fa844d9b913ef4a3b41a4c6d", 
+   "label": "action"
+  }, 
+  {
+   "src": "328967f7c6d44b39860385e63deb677c", 
+   "dst": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "type": "first-wrote", 
+   "id": "be218f866b234db2a0a21cd6d0ce1a48", 
+   "label": "action"
+  }, 
+  {
+   "src": "215e118b79db4a0d83193a367618a8b2", 
+   "dst": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "type": "first-wrote", 
+   "id": "c30dfdbe1fad4ef985e0457d17baad6e", 
+   "label": "action"
+  }, 
+  {
+   "src": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "dst": "9733df8da0704166978d6b82900eb3ff", 
+   "type": "first-wrote", 
+   "id": "233a58c741114ef69cbc1dbbb31d83f8", 
+   "label": "action"
+  }, 
+  {
+   "src": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "dst": "f6a9dfa652f441abb685a6209396ba3e", 
+   "type": "first-wrote", 
+   "id": "364b8408ae9645608493cf2fd420b11a", 
+   "label": "action"
+  }, 
+  {
+   "src": "23fd9688a12f49fbb1480f769cd0eecc", 
+   "dst": "65b3039a38064c10909efd18994dbd68", 
+   "type": "first-wrote", 
+   "id": "a39e65eb28bb4edb897e0adc1b6855a3", 
+   "label": "action"
+  }, 
+  {
+   "src": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "dst": "5d005f8dd5034e43ac081c46a38bca29", 
+   "type": "timestamp", 
+   "id": "a543560cde964a0ab7bb3ab37605c311", 
+   "label": "time"
+  }, 
+  {
+   "src": "3a0b9058b1c2495f9e1c97df2cdf05f8", 
+   "dst": "e4d5547f087641caae2655a39b933d2a", 
+   "type": "first-wrote", 
+   "id": "7a1be40709d24cdbae878d2d47d721ef", 
+   "label": "action"
+  }, 
+  {
+   "src": "5d005f8dd5034e43ac081c46a38bca29", 
+   "dst": "6d2d767d0026415dabd53487142e6e14", 
+   "type": "timestamp", 
+   "id": "22557e8ddbac4679888d71c1490405ff", 
+   "label": "time"
+  }
+ ]
+}
